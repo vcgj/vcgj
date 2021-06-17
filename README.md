@@ -1,5 +1,16 @@
-### Hi there 👋
+![Header](https://i.pinimg.com/originals/61/2d/a3/612da35ea3c6cfd120c3dccb80a0ac8f.png)
 
+## I'm currently learning 🌱
+
+__Systemdevelopment .NET__
+* HTML
+* CSS
+* Javascript
+* C#
+* AWS cloud architecture
+* SQL 
+* React 
+* 
 <!--
 **vcgj/vcgj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +23,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...👋
 -->
