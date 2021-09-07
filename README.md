@@ -11,6 +11,7 @@ __Systemdevelopment .NET__
 * SQL 
 * React 
 * Redux
+* ASP .NET Core with Razor Page
 <!--
 **vcgj/vcgj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
