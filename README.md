@@ -7,7 +7,7 @@
 * C# .NET
 * ASP .NET Core with Razor Page & MVC
 * Design patterns
-* Practice writing clean code
+* Writing clean code
 <!--
 **vcgj/vcgj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
