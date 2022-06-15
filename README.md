@@ -1,6 +1,6 @@
 ![Header](https://i.pinimg.com/originals/61/2d/a3/612da35ea3c6cfd120c3dccb80a0ac8f.png)
 
-## I'm a recent graduate in .NET development, an illustrator & UI Designer 🌱
+## I'm a recent graduate in .NET development, an Illustrator & UI Designer 🌱
 
 🔭 I’m currently working on developing my skills in : 
 * Web development (HTML, CSS, JS, React)
