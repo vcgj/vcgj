@@ -4,10 +4,12 @@
 
 🔭 I’m currently developing my skills in : 
 * Web development/front-end (HTML, CSS, JS, React)
-* C# .NET
+* C# .NET with SQL
 * ASP .NET Core with Razor Page & MVC
 * Design patterns
 * Writing clean code
+* Becoming a Figma wizard
+* UI/UX
 <!--
 **vcgj/vcgj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
