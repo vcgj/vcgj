@@ -2,7 +2,7 @@
 
 ## I'm a recent graduate in .NET development, an Illustrator & UI Designer 🌱
 
-🔭 I’m currently working on developing my skills in : 
+🔭 I’m currently developing my skills in : 
 * Web development/front-end (HTML, CSS, JS, React)
 * C# .NET
 * ASP .NET Core with Razor Page & MVC
