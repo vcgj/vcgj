@@ -1,5 +1,6 @@
-# Hi!👋 I'm Vernnie
-## I'm a developer in .NET Core, an Illustrator & UI Designer 🌱
+Hi!👋 I'm Vernnie
+
+I'm a developer in .NET Core, an Illustrator & UI Designer 🌱
 
 🔭 I’m currently developing my skills in : 
 * Web development/front-end (HTML, CSS, JS, React)
