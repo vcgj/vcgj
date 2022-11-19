@@ -1,16 +1,15 @@
-![Header](https://i.pinimg.com/originals/61/2d/a3/612da35ea3c6cfd120c3dccb80a0ac8f.png)
-
-## I'm a recent graduate in .NET development, an Illustrator & UI Designer 🌱
+## I'm a developer in .NET Core, an Illustrator & UI Designer 🌱
 
 🔭 I’m currently developing my skills in : 
 * Web development/front-end (HTML, CSS, JS, React)
-* C# .NET with SQL
-* ASP .NET Core with Razor Page & MVC
+* ASP .NET Core with Razor Page & MVC with SQL
 * Design patterns
 * Writing clean code
 * Becoming a Figma wizard
 * UI/UX
+
 <!--
+![Header](https://i.pinimg.com/originals/61/2d/a3/612da35ea3c6cfd120c3dccb80a0ac8f.png)
 **vcgj/vcgj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
